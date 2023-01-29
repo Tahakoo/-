@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html lang="en" class="notranslate fa-events-icons-ready" translate="no"><head>
+<meta charset="utf-8">
+<meta name="google" content="notranslate">
+<meta name="format-detection" content="telephone=no">
+<meta name="msapplication-tap-highlight" content="no">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="viewport-fit=cover, width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1,user-scalable=no, height=device-height">
+<meta name=" apple-mobile-web-app-capable" content="yes">
+<title> صدقة جارية اونلاين - On-line-charity</title>
+<meta name="title" content=" صدقة جارية اونلاين - On-line-charity">
+<meta name="description" content="المسبحة الالكترونية هو تطبيق بسيط يتيح لك عد / حصر أي نشاط تريده. يمكن استخدامها للتسبيح, ">
+<meta name="keywords" content="المسبحة , الالكترونية , On-line-charity, On-line-charity, sabe7, سبح,المسبحة للصلاة,المسبحة اونلاين,
+المسبحة صلاة,مسبحة رقمية,مسبحة جوال,المسبحة تسبيح,المسبحه تحميل,المسبحة تنزيل,المسبحة تطبيق,المسبحة الالكترونية,المسابح 11,المسابح 2,مسبحة 66 حبة">
+<meta name="robots" content="index, follow">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="language" content="Arabic">
+<link rel="icon" href="https://up6.cc/2023/01/16750064116891.png" type="image/x-icon">
+<meta property="og:title" content=" صدقة جارية اونلاين - On-line-charity">
+<meta property="og:site_name" content=" المسبحة الالكترونية">
+<meta property="og:url" content="https://up6.cc/2023/01/16750064116891.png">
+<meta property="og:description" content="المسبحة الالكترونية هو تطبيق بسيط يتيح لك عد / حصر أي نشاط تريده. يمكن استخدامها للتسبيح, ">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://up6.cc/2023/01/16750064116891.png">
+<meta property="fb:app_id" content="866136870872519">
+<meta property="fb:pages" content="106854511512997">
+<link rel="manifest" href="https://masba7a.com/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://up6.cc/2023/01/16750064116891.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" href="https://masba7a.com/css/style.css?v=3">
+<script src="https://connect.facebook.net/en_US/sdk.js?hash=1f3970a3d8d3f5cceefc7e5807672e1a" async="" crossorigin="anonymous"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PXD5FMF"></script><script src="https://use.fontawesome.com/abc2a70698.js" type="text/javascript"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous" type="text/javascript"></script>
+
+<script type="text/javascript">
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-PXD5FMF');
+    </script>
+
+<script async="" data-ad-client="ca-pub-8222172252175401" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="text/javascript"></script>
+<link href="https://use.fontawesome.com/abc2a70698.css" media="all" rel="stylesheet"><script id="facebook-jssdk" async="" src="https://connect.facebook.net/ar_AR/all.js"></script><style type="text/css" data-fbcssmodules="css:fb.css.base css:fb.css.dialog css:fb.css.iframewidget css:fb.css.customer_chat_plugin_iframe">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:'lucida grande', tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:'lucida grande', tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://connect.facebook.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://connect.facebook.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://connect.facebook.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://connect.facebook.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://connect.facebook.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#043b87;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://connect.facebook.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://connect.facebook.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}
+.fb_mpn_mobile_landing_page_slide_out{animation-duration:200ms;animation-name:fb_mpn_landing_page_slide_out;transition-timing-function:ease-in}.fb_mpn_mobile_landing_page_slide_out_from_left{animation-duration:200ms;animation-name:fb_mpn_landing_page_slide_out_from_left;transition-timing-function:ease-in}.fb_mpn_mobile_landing_page_slide_up{animation-duration:500ms;animation-name:fb_mpn_landing_page_slide_up;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_in{animation-duration:300ms;animation-name:fb_mpn_bounce_in;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_out{animation-duration:300ms;animation-name:fb_mpn_bounce_out;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_out_v2{animation-duration:300ms;animation-name:fb_mpn_fade_out;transition-timing-function:ease-in}.fb_customer_chat_bounce_in_v2{animation-duration:300ms;animation-name:fb_bounce_in_v2;transition-timing-function:ease-in}.fb_customer_chat_bounce_in_from_left{animation-duration:300ms;animation-name:fb_bounce_in_from_left;transition-timing-function:ease-in}.fb_customer_chat_bounce_out_v2{animation-duration:300ms;animation-name:fb_bounce_out_v2;transition-timing-function:ease-in}.fb_customer_chat_bounce_out_from_left{animation-duration:300ms;animation-name:fb_bounce_out_from_left;transition-timing-function:ease-in}.fb_invisible_flow{display:inherit;height:0;overflow-x:hidden;width:0}@keyframes fb_mpn_landing_page_slide_out{0%{margin:0 12px;width:100% - 24px}60%{border-radius:18px}100%{border-radius:50%;margin:0 24px;width:60px}}@keyframes fb_mpn_landing_page_slide_out_from_left{0%{left:12px;width:100% - 24px}60%{border-radius:18px}100%{border-radius:50%;left:12px;width:60px}}@keyframes fb_mpn_landing_page_slide_up{0%{bottom:0;opacity:0}100%{bottom:24px;opacity:1}}@keyframes fb_mpn_bounce_in{0%{opacity:.5;top:100%}100%{opacity:1;top:0}}@keyframes fb_mpn_fade_out{0%{bottom:30px;opacity:1}100%{bottom:0;opacity:0}}@keyframes fb_mpn_bounce_out{0%{opacity:1;top:0}100%{opacity:.5;top:100%}}@keyframes fb_bounce_in_v2{0%{opacity:0;transform:scale(0, 0);transform-origin:bottom right}50%{transform:scale(1.03, 1.03);transform-origin:bottom right}100%{opacity:1;transform:scale(1, 1);transform-origin:bottom right}}@keyframes fb_bounce_in_from_left{0%{opacity:0;transform:scale(0, 0);transform-origin:bottom left}50%{transform:scale(1.03, 1.03);transform-origin:bottom left}100%{opacity:1;transform:scale(1, 1);transform-origin:bottom left}}@keyframes fb_bounce_out_v2{0%{opacity:1;transform:scale(1, 1);transform-origin:bottom right}100%{opacity:0;transform:scale(0, 0);transform-origin:bottom right}}@keyframes fb_bounce_out_from_left{0%{opacity:1;transform:scale(1, 1);transform-origin:bottom left}100%{opacity:0;transform:scale(0, 0);transform-origin:bottom left}}@keyframes slideInFromBottom{0%{opacity:.1;transform:translateY(100%)}100%{opacity:1;transform:translateY(0)}}@keyframes slideInFromBottomDelay{0%{opacity:0;transform:translateY(100%)}97%{opacity:0;transform:translateY(100%)}100%{opacity:1;transform:translateY(0)}}</style></head>
+<body id="homepage">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PXD5FMF" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script type="text/javascript">
+  var app_path = 'https://masba7a.com/';
+</script>
+<div class="slideout-container">
+<style>
+    .counter-btn {
+        background-color: #0076ff;
+        width: 130px;
+        height: 130px;
+        margin: auto;
+        border-radius: 100px 100px 100px 100px;
+        -moz-border-radius: 100px;
+        -webkit-border-radius: 100px 100px 100px 100px;
+        border: 0 solid #000;
+        color: white;
+        font-size: 24px;
+        display: flex;
+        align-content: center;
+        align-items: center;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .v-c {
+        vertical-align: middle !important;
+    }
+
+    .counter-btn:active {
+        background-color: #0076ff;
+        opacity: .8;
+    }
+
+    .counter-text {
+        font-size: 24px;
+        vertical-align: middle !important;
+    }
+
+    .clear-counter {
+        padding: 1px;
+        padding: 1px;
+        position: absolute;
+        right: 4px;
+    }
+</style>
+<main id="panel" class="slideout-panel slideout-panel-left">
+<button class="toggle-button btn btn-outline-primary ">☰</button>
+<a href="https://api.whatsapp.com/send?text= https://masba7a.com/" data-action="share/whatsapp/share" class="whatsapp-link" target="_blank"><img src="img/whatsapp.png" alt=""></a>
+<h1>صدقة جارية اونلاين - On-line-charity<img src="https://up6.cc/2023/01/167500802334541.jpg" class="masba7a-logo"></h1>
+<div class="content top-home m-3 text-center" style="direction: rtl;">
+<h5 class="p-2">قم بالضغط على الزر الأزرق لزيادة العداد </h5>
+<h5 class="p-2 d-none d-xl-block">إضغط على أي من العدادات وأكمل بإستخدام لوحة المفاتيح رقم ، حرف، مفتاح المسافة أو مفتاح الادخال</h5>
+<p dir="rtl">إجعل التسبيح والإستغفار من عاداتك عسى الله أن يكرمنا وإياكم</p>
+<button class="btn btn-danger btn-sm mb-2" onclick="if (!window.__cfRLUnblockHandlers) return false; clearAllCounter()" style="    font-size: 12px;" type="button">تصفير العدادات </button>
+<div class="row">
+<div class="col-12 col-md-6 col-lg-4 col-xlg-3 noselect">
+<div class="card border-primary mb-3">
+<div class="card-header counter-text"> سبحان الله</div>
+<div class="card-body text-primary">
+<button class="btn btn-danger clear-counter btn-sm" data-id="0"><i class="fa fa-undo fa-fw fa-lg"></i></button>
+<div class="counter-btn counter-total counter-total-0 " id="button-0" data-id="0">0</div>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-6 col-lg-4 col-xlg-3 noselect">
+<div class="card border-primary mb-3">
+<div class="card-header counter-text"> الحمدلله</div>
+<div class="card-body text-primary">
+<button class="btn btn-danger clear-counter btn-sm" data-id="1"><i class="fa fa-undo fa-fw fa-lg"></i></button>
+<div class="counter-btn counter-total counter-total-1 " id="button-1" data-id="1">4</div>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-6 col-lg-4 col-xlg-3 noselect">
+<div class="card border-primary mb-3">
+<div class="card-header counter-text"> لا إله إلا الله</div>
+<div class="card-body text-primary">
+<button class="btn btn-danger clear-counter btn-sm" data-id="2"><i class="fa fa-undo fa-fw fa-lg"></i></button>
+<div class="counter-btn counter-total counter-total-2 " id="button-2" data-id="2">0</div>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-6 col-lg-4 col-xlg-3 noselect">
+<div class="card border-primary mb-3">
+<div class="card-header counter-text"> الله أكبر</div>
+<div class="card-body text-primary">
+<button class="btn btn-danger clear-counter btn-sm" data-id="3"><i class="fa fa-undo fa-fw fa-lg"></i></button>
+<div class="counter-btn counter-total counter-total-3 " id="button-3" data-id="3">0</div>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-6 col-lg-4 col-xlg-3 noselect">
+<div class="card border-primary mb-3">
+<div class="card-header counter-text"> رب اغفر لي</div>
+<div class="card-body text-primary">
+<button class="btn btn-danger clear-counter btn-sm" data-id="4"><i class="fa fa-undo fa-fw fa-lg"></i></button>
+<div class="counter-btn counter-total counter-total-4 " id="button-4" data-id="4">0</div>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-6 col-lg-4 col-xlg-3 noselect">
+<div class="card border-primary mb-3">
+<div class="card-header counter-text"> أستغفر الله</div>
+<div class="card-body text-primary">
+<button class="btn btn-danger clear-counter btn-sm" data-id="5"><i class="fa fa-undo fa-fw fa-lg"></i></button>
+<div class="counter-btn counter-total counter-total-5 " id="button-5" data-id="5">0</div>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-6 col-lg-4 col-xlg-3 noselect">
+<div class="card border-primary mb-3">
+<div class="card-header counter-text"> لا حول ولا قوة إلا بالله</div>
+<div class="card-body text-primary">
+<button class="btn btn-danger clear-counter btn-sm" data-id="6"><i class="fa fa-undo fa-fw fa-lg"></i></button>
+<div class="counter-btn counter-total counter-total-6 " id="button-6" data-id="6">0</div>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-6 col-lg-4 col-xlg-3 noselect">
+<div class="card border-primary mb-3">
+<div class="card-header counter-text"> اللهمَّ إنك عفوٌّ تُحبُّ العفوَ فاعفُ عنِّي</div>
+<div class="card-body text-primary">
+<button class="btn btn-danger clear-counter btn-sm" data-id="7"><i class="fa fa-undo fa-fw fa-lg"></i></button>
+<div class="counter-btn counter-total counter-total-7 " id="button-7" data-id="7">0</div>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-6 col-lg-4 col-xlg-3 noselect">
+<div class="card border-primary mb-3">
+<div class="card-header counter-text"> اللهم صل وسلم وبارك على سيدنا محمد</div>
+<div class="card-body text-primary">
+<button class="btn btn-danger clear-counter btn-sm" data-id="8"><i class="fa fa-undo fa-fw fa-lg"></i></button>
+<div class="counter-btn counter-total counter-total-8 " id="button-8" data-id="8">0</div>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-6 col-lg-4 col-xlg-3 noselect">
+<div class="card border-primary mb-3">
+<div class="card-header counter-text"> سبحان الله وبحمده سبحان الله العظيم</div>
+<div class="card-body text-primary">
+<button class="btn btn-danger clear-counter btn-sm" data-id="9"><i class="fa fa-undo fa-fw fa-lg"></i></button>
+<div class="counter-btn counter-total counter-total-9 " id="button-9" data-id="9">0</div>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-6 col-lg-4 col-xlg-3 noselect">
+<div class="card border-primary mb-3">
+<div class="card-header counter-text"> سبحان الله والحمد لله ولا إله إلا الله والله أكبر</div>
+<div class="card-body text-primary">
+<button class="btn btn-danger clear-counter btn-sm" data-id="10"><i class="fa fa-undo fa-fw fa-lg"></i></button>
+<div class="counter-btn counter-total counter-total-10 " id="button-10" data-id="10">0</div>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-6 col-lg-4 col-xlg-3 noselect">
+<div class="card border-primary mb-3">
+<div class="card-header counter-text"> أستغفر الله الذى لا إله إلا هو الحي القيوم وأتوب إليه</div>
+<div class="card-body text-primary">
+<button class="btn btn-danger clear-counter btn-sm" data-id="11"><i class="fa fa-undo fa-fw fa-lg"></i></button>
+<div class="counter-btn counter-total counter-total-11 " id="button-11" data-id="11">0</div>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-6 col-lg-4 col-xlg-3 noselect">
+<div class="card border-primary mb-3">
+<div class="card-header counter-text"> لا اله الا انت سبحانك إني كنت من الظالمين</div>
+<div class="card-body text-primary">
+<button class="btn btn-danger clear-counter btn-sm" data-id="12"><i class="fa fa-undo fa-fw fa-lg"></i></button>
+<div class="counter-btn counter-total counter-total-12 " id="button-12" data-id="12">0</div>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-6 col-lg-4 col-xlg-3 noselect">
+<div class="card border-primary mb-3">
+<div class="card-header counter-text"> سبحان الله وبحمده عدد خلقه ورضا نفسه وزنة عرشه ومداد كلماته</div>
+<div class="card-body text-primary">
+<button class="btn btn-danger clear-counter btn-sm" data-id="13"><i class="fa fa-undo fa-fw fa-lg"></i></button>
+<div class="counter-btn counter-total counter-total-13 " id="button-13" data-id="13">0</div>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-6 col-lg-4 col-xlg-3 noselect">
+<div class="card border-primary mb-3">
+<div class="card-header counter-text"> لا إله إلا الله وحده لا شريك لهُ ، لهُ الملك ، ولهُ الحمدُ ، وهو على كل شيء قدير</div>
+<div class="card-body text-primary">
+<button class="btn btn-danger clear-counter btn-sm" data-id="14"><i class="fa fa-undo fa-fw fa-lg"></i></button>
+<div class="counter-btn counter-total counter-total-14 " id="button-14" data-id="14">0</div>
+</div>
+ </div>
+</div>
+</div>
+
+<button class="btn btn-danger" onclick="if (!window.__cfRLUnblockHandlers) return false; clearAllCounter()" type="button">تصفير جميع العدادات </button>
+</div>
+<div style="direction: rtl;" class="text-center small">عدد المسبحين :
+<span class="counter-db"><b>5,122,846</b></span>
+</div>
+<div class="m-2 text-center"><a href="#"> <div class="alert alert-link alert-danger pl-0 pr-0" role="alert">
+<i class="fa fa-hand-o-left fa-flip-horizontal" aria-hidden="true"></i>صدقة جارية اونلاين</div></a></div> <div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div>
+<div class="col-12 mt-1 p-0 text-center">
+<a href="https://api.whatsapp.com/send?text= https://t.me/On_line_charity" style="font-size: 14px;" data-action="share/whatsapp/share" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="" width="34px">
+انشرها على تيلجرام ولك الأجر والثواب إن شاء الله
+</a>
+</div>
+<script async="" defer="" crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v10.0&amp;appId=866136870872519&amp;autoLogAppEvents=1" nonce="xpEvh3JP" type="text/javascript"></script>
+<div class="text-center mt-2 mb-2">
+<div class="fb-like fb_iframe_widget" data-href="https://www.facebook.com/%D9%85%D9%83%D8%AA%D8%A8%D8%AA%D9%8A-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-106854511512997" data-width="" data-layout="button" data-action="like" data-size="large" data-share="false" fb-xfbml-state="rendered" fb-iframe-plugin-query="action=like&amp;app_id=866136870872519&amp;container_width=0&amp;href=https%3A%2F%2Fwww.facebook.com%2F%25D9%2585%25D9%2583%25D8%25AA%25D8%25A8%25D8%25AA%25D9%258A-%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B3%25D9%2584%25D8%25A7%25D9%2585%25D9%258A%25D8%25A9-106854511512997&amp;layout=button&amp;locale=en_US&amp;sdk=joey&amp;share=false&amp;size=large&amp;width="><span style="vertical-align: top; width: 0px; height: 0px; overflow: hidden;"><iframe name="f3b1a7332e44ddc" width="1000px" height="1000px" data-testid="fb:like Facebook Social Plugin" title="fb:like Facebook Social Plugin" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src="https://www.facebook.com/v10.0/plugins/like.php?action=like&amp;app_id=866136870872519&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Dfb587f56594b74%26domain%3Dmasba7a.com%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fmasba7a.com%252Ff29303bbca5d77c%26relation%3Dparent.parent&amp;container_width=0&amp;href=https%3A%2F%2Fwww.facebook.com%2F%25D9%2585%25D9%2583%25D8%25AA%25D8%25A8%25D8%25AA%25D9%258A-%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B3%25D9%2584%25D8%25A7%25D9%2585%25D9%258A%25D8%25A9-106854511512997&amp;layout=button&amp;locale=en_US&amp;sdk=joey&amp;share=false&amp;size=large&amp;width=" style="border: none; visibility: visible; width: 0px; height: 0px;"></iframe></span></div>
+<div class="fb-share-button fb_iframe_widget" data-href="https://t.me/On_line_charity" data-layout="button" data-size="large" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=866136870872519&amp;container_width=0&amp;href=https%3A%2F%2Fmasba7a.com%2F&amp;layout=button&amp;locale=en_US&amp;sdk=joey&amp;size=large"><span style="vertical-align: top; width: 0px; height: 0px; overflow: hidden;"><iframe name="f310852d0e02de4" width="1000px" height="1000px" data-testid="fb:share_button Facebook Social Plugin" title="fb:share_button Facebook Social Plugin" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src="https://www.facebook.com/v10.0/plugins/share_button.php?app_id=866136870872519&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df22623ba4405fdc%26domain%3Dmasba7a.com%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fmasba7a.com%252Ff29303bbca5d77c%26relation%3Dparent.parent&amp;container_width=0&amp;href=https%3A%2F%2Fmasba7a.com%2F&amp;layout=button&amp;locale=en_US&amp;sdk=joey&amp;size=large" style="border: none; visibility: visible; width: 0px; height: 0px;"></iframe></span></div>
+<a href="https://t.me/On_line_charity"> <img style="height: 28px;" src="https://masba7a.com/img/android.png" alt="" class="align-bottom"> </a>
+</div>
+<div class="d-flex justify-content-center mt-1 text-center">
+<div class="mr-1">
+<div class="d-inline p-1">
+<a href="javascript:void(0)" onclick="if (!window.__cfRLUnblockHandlers) return false; shareTwitter()">
+<i class="fa  fa-2x fa fa-twitter" aria-hidden="true"></i>
+</a>
+</div>
+</div>
+<div>
+<div class="d-inline  custom-share-button"><button class="btn btn-primary btn-sm" onclick="if (!window.__cfRLUnblockHandlers) return false; onShareCLick()"><i class="fa fa-share-alt" aria-hidden="true"></i> مشاركة </button></div>
+</div>
+<div class="ml-1">
+<button class="btn btn-sm btn-success d-block w-100 m-auto" style="max-width: 368px;" onclick="if (!window.__cfRLUnblockHandlers) return false; copyRabet()">نسخ الرابط </button>
+</div>
+</div>
+
+
+
+
+
+<!-- الاقسام -->
+
+<div class="container">
+<section>
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color:rgba(187, 120, 36, 0.1)">
+<center><i class="fa fa-bed" style="color:#BB7824"></i></center> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl">انشئ مسبحة للمتوفى</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="#">
+<div class="wrimagecard-topimage_header" style="background-color: rgb(147 186 217 / 39%);height:110px;">
+<img src="https://masba7a.com/img/river-sadaka-jariya-masba7a.png" alt="انشئ صدقة جارية للميت " class="img-fluid m-auto d-block" style="max-height: 100%;"> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl">انشئ صدقة جارية للميت </h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color: rgba(22, 160, 133, 0.1)">
+<center><i class="fa fa-users" style="color:#16A085"></i></center> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl">تسبيح جماعي</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color:  #d50f0f30">
+<center><i class="fa fa-heart" style="color:#d50f0f"></i></center> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl"> انشئ رسالة حب فالله </h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color: #f4258114;height:110px;">
+<img src="https://masba7a.com/img/rose-masba7a.png" alt="انشئ مسبحة الرحمة للميت " class="img-fluid m-auto d-block" style="max-height: 100%;"> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl">انشئ مسبحة الرحمة للميت</h4>
+</div>
+ </a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color: rgb(231 245 236);height:110px;">
+<img src="https://masba7a.com/img/5etme.png" alt="ختمة القرآن اونلاين " class="img-fluid m-auto d-block" style="max-height: 100%;"> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl">ختمة القرآن اونلاين </h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color: rgba(22, 160, 133, 0.1)">
+<center><i class="fa fa-hand-paper-o" style="color:#16A085"></i></center> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl">انشئ دعاء</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color:  rgba(213, 15, 37, 0.1)">
+<center><i class="fa fa-wheelchair" style="color:#d50f25"> </i></center> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl">انشئ مسبحة للمريض</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color: rgba(51, 105, 232, 0.1)">
+<center><i class="fa fa-cogs" style="color:#3369e8"></i></center> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl">انشئ مسبحة متقدمة</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color: rgb(248 241 233);height:110px;">
+<img src="https://masba7a.com/img/estghfar.png" alt="استغفار  الالكترونية" class="img-fluid m-auto d-block" style="max-height: 100%;"> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl">استغفار اونلاين</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color: rgba(51, 105, 232, 0.1);height:110px;">
+<center><i class="fa fa-superpowers" style="color:#336be8"></i></center> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl">إنشاء استغفار للمتوفى</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color: rgb(187 36 57 / 10%);height:110px;">
+<center><i class="fa fa-globe" style="color:#bb2471"></i></center> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl">انشئ صدقة جارية للمتوفى </h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color: rgb(101 22 160 / 10%);height:110px;">
+<center><i class="fa fa-podcast" style="color:#6b73d4"></i></center> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl">إنشاء حملة ذكر</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color: rgb(187 36 57 / 10%);height:110px;">
+<center><i class="fa fa-user" style="color:#bb2471"></i></center> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl">انشئ صدقة على نية التوفيق</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color:  rgba(213, 15, 37, 0.1)">
+<center><i class="fa fa-refresh" style="color:#d50f25"></i></center> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl">المسبحة اللانهائية</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color:  rgba(51, 105, 232, 0.1)">
+<center><i class="fa fa-circle" style="color:#3369e8"></i></center> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl">المسبحة المحدودة</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color:  rgba(213, 15, 37, 0.1)">
+<center><i class="fa fa-heart" style="color:#d50f25"></i></center> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl">حملة التسبيح المليارية</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color:  rgba(51, 105, 232, 0.1);height:110px;">
+<center><i class="fa fa-cloud" style="color:#336be8"></i></center> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl">حملات التسبيح </h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color: rgba(22, 160, 133, 0.1);height:110px;">
+<img src="https://masba7a.com/img/إنشاء-دعاء-للمتوفى.png" class="d-block img-fluid m-auto" style="max-height: 100%;"> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl"> دعاء خاص للمتوفى</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color:  rgba(250, 188, 9, 0.1);height:110px;">
+<img src="https://masba7a.com/img/asmaa-allah-housna.png" alt="أسماء الله الحسنى" class="img-fluid m-auto d-block" style="max-height: 100%;"> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl">أسماء الله الحسنى</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color:  rgba(250, 188, 9, 0.1);height:110px;">
+ <img src="https://masba7a.com/img/alkahef.png" alt=" سورة الكهف " class="img-fluid m-auto d-block" style="max-height: 100%;"> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl"> قراءة سورة الكهف</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color:  rgba(250, 188, 9, 0.1);height:110px;">
+<img src="https://masba7a.com/img/yassin.png" alt=" سورة يس " class="img-fluid m-auto d-block" style="max-height: 100%;"> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl">قراءة سورة يس </h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color: rgb(45 15 213 / 10%);height:110px;">
+<img src="https://masba7a.com/img/almulk.png" alt=" سورة الملك " class="img-fluid m-auto d-block" style="max-height: 100%;"> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl">قراءة سورة الملك </h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color: rgba(22, 160, 133, 0.1)">
+<center><i class="fa fa-sun-o" style="color:#16A085"></i></center> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl">أذكار الصباح </h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color:  rgb(45 45 45 / 10%)">
+<center><i class="fa fa-moon-o" style="color: #505050;"></i></center> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl">أذكار المساء</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color: rgba(22, 160, 133, 0.1)">
+<center><i class="fa fa-th-large" style="color:#16A085"></i></center> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl">احاديث من رياض الصالحين</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color:  rgba(51, 105, 232, 0.1)">
+<center><i class="fa fa-question-circle" style="color:#3369e8"></i></center> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl"> جميع الإختبارات الدينية </h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color: rgb(248 241 233);height:110px;">
+<img src="https://masba7a.com/img/ghares-icon.png" alt="غرس الجنة" class="img-fluid m-auto d-block" style="max-height: 100%;"> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl">غرس الجنة</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color:  rgb(232 51 51 / 10%);height:110px;">
+<center><i class="fa fa-gamepad" style="color:#e86533"></i></center> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl">مرِّن عقلك بذكر الله </h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color: rgb(244 222 255);height:110px;">
+<center><i class="fa fa-gift" style="color:#ad0fd5"></i></center> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl">هدية لك ❤️ روابط مختصرة</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color:  rgba(51, 105, 232, 0.1)">
+<center><i class="fa fa-star" style="color:#3369e8"></i></center> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl">مقالات دينية </h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color: #33aee830">
+<center><i class="fa fa-align-center" style="color:#33aee8"></i></center> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl"> أفضل الأذكار </h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color:  #e8873330">
+<center><i class="fa fa-asl-interpreting" style="color:#e88733"></i></center> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl"> أفضل الأدعية </h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color:  #45b40030">
+<center><i class="fa fa-bookmark-o" style="color:#45b400"></i></center> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl"> الرقية الشرعية </h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color:  rgba(51, 105, 232, 0.1)">
+<img src="https://masba7a.com/img/play.png" alt="play store" class="img-fluid  d-block m-auto" style="max-width: 65px;"> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl">جميع تطبيقاتنا</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-6">
+<div class="wrimagecard wrimagecard-topimage">
+<a href="https://t.me/On_line_charity">
+<div class="wrimagecard-topimage_header" style="background-color:  #ff60ce30">
+<center><i class="fa fa-female" style="color:#ff60ce"></i></center> </div>
+<div class="wrimagecard-topimage_title">
+<h4 dir="rtl"> أذكار المسلمات </h4>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<div align="center">
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8222172252175401" data-ad-slot="9193042353" data-ad-format="auto" data-full-width-responsive="true"></ins>
+</div>
+<script type="text/javascript">
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<div class="section text-center pt-5">
+<div class="container   ">
+<div class="row">
+<div class="col-12 col-md-4" style="direction: rtl;">
+<a href="https://on-line-charity.blogspot.com/2023/01/blog-post.html" class="d-block mb-3 text-center">
+<div class="card">
+<img class="card-img-top" src="https://masba7a.com/img/b/44/حكم-الفطار-ف-صام-التطوع.png" alt="حكم الإفطار في صيام التطوع" style="width:100%">
+<div class="card-body">
+<h5 class="card-title">حكم الإفطار في صيام التطوع </h5>
+<p class="card-text">حُكم الإفطار في صيام التطوُّع
+صوم التطوعصوم التطوُّع هو صوم النَّفْل فيما دون الفريضة؛ إذ يُؤدّى هذا الصوم في غير شهر...</p>
+</div>
+</div>
+</a>
+</div>
+<div class="col-12 col-md-4" style="direction: rtl;">
+<a href="https://on-line-charity.blogspot.com/2023/01/blog-post.html" class="d-block mb-3 text-center">
+<div class="card">
+<img class="card-img-top" src="https://masba7a.com/img/b/1100/كف-تحسن-خاتمتك.jpg" alt="كيف تحسن خاتمتك" style="width:100%">
+<div class="card-body">
+<h5 class="card-title">كيف تحسن خاتمتك </h5>
+<p class="card-text">كيف تحسن خاتمتك
+♥️ شارك تؤجر ♥️
+[islamic_images 38] لا تنس ذكر الله سبحان الله والحمدلله ولا إله إلا الله والله أ...</p>
+</div>
+</div>
+</a>
+</div>
+<div class="col-12 col-md-4" style="direction: rtl;">
+<a href="https://on-line-charity.blogspot.com/2023/01/blog-post.html" class="d-block mb-3 text-center">
+<div class="card">
+<img class="card-img-top" src="https://masba7a.com/imgtxt/categories/9/أخطاء عامة في شهر رمضان " alt="أخطاء عامة في شهر رمضان " style="width:100%">
+<div class="card-body">
+<h5 class="card-title">أخطاء عامة في شهر رمضان </h5>
+<p class="card-text">أخطاء عامة في شهر رمضان
+الكاتب : الشيخ ندا أبو أحمد
+المحتوى : في هذا الكتاب يعرض لنا الكاتب الكثير من الأخطاء التي ...</p>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div> <script type="text/javascript">
+        var selectedButtonPress = 0;
+
+        $(document).ready(function() {
+            updateNumbers();
+            $(".counter-btn").click(function() {
+                var id = $(this).data("id");
+                selectedButtonPress = id;
+                var u = localStorage.getItem("home" + id);
+                if (u && u !== '')
+                    u++;
+                else
+                    u = 1;
+                localStorage.setItem("home" + id, u);
+                $(this).text(u);
+            });
+            $(".clear-counter").click(function() {
+                if (confirm("هل تريد تصفير العداد؟ ")) {
+                    var id = $(this).data("id");
+                    localStorage.setItem("home" + id, 0);
+                    $(".counter-total-" + id).text(0);
+                    $(this).closest(".counter-container").find(".counter-btn").text(0);
+                }
+            });
+        });
+
+        function updateNumbers() {
+            $(".counter-btn").each(function(i, e) {
+                var id = $(e).data("id");
+                var u = localStorage.getItem("home" + id);
+                if (u && u !== '') {} else {
+                    u = 0;
+                }
+                localStorage.setItem("home" + id, u);
+                $(".counter-total-" + id).text(u);
+            });
+        }
+
+        function clearAllCounter() {
+            if (confirm("هل تريد تصفير العدادات؟ ")) {
+                $('.clear-counter').each(function(i, e) {
+                    var id = $(e).data("id");
+                    localStorage.setItem("home" + id, 0);
+                    $(".counter-total-" + id).text(0);
+                    $(e).closest(".counter-container").find(".counter-btn").text(0);
+                });
+            }
+        }
+
+
+        document.addEventListener("keypress", function(event) {
+            if (event.keyCode == 13 || event.keyCode == 32 || (event.keyCode >= 97 && event.keyCode <= 122) || (event.keyCode >= 48 && event.keyCode <= 58)) {
+                event.preventDefault();
+                $('#button-' + selectedButtonPress).trigger('click');
+            }
+        });
+    </script>
+
+<div align="center">
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8222172252175401" data-ad-slot="5556804896" data-ad-format="auto" data-full-width-responsive="true"></ins>
+</div>
+<script type="text/javascript">
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</main>
+<nav id="menu" class="slideout-menu slideout-menu-left">
+<ul class="list-unstyled">
+<li class="list-group-item menu-item">
+<a href="/">
+<i class="fa fa-home"></i>
+<span>المسبحة الرئيسية </span></a>
+</li>
+<li class="list-group-item menu-item">
+<a href="https://t.me/On_line_charity">
+<i class="fa fa-moon-o"></i>
+<span>صفحات زرتها سابقاً </span></a>
+</li>
+
+<li class="list-group-item menu-item">
+<a href="https://t.me/On_line_charity">
+<i class="fa fa-hand-paper-o"></i>
+<span>انشئ دعاء </span></a>
+</li>
+<li class="list-group-item menu-item">
+<a href="https://t.me/On_line_charity">
+<i class="fa fa-sun-o"></i>
+<span>انشئ مسبحة للمتوفى </span></a>
+</li>
+
+<li class="list-group-item menu-item">
+<a href="https://t.me/On_line_charity">
+<i class="fa fa-globe"></i>
+<span>انشئ صدقة جارية للمتوفي </span></a>
+</li>
+<li class="list-group-item menu-item">
+<a href="https://t.me/On_line_charity">
+<i class="fa fa-wheelchair"></i>
+<span>انشئ مسبحة للمريض </span></a>
+</li>
+<li class="list-group-item menu-item">
+<a href="https://t.me/On_line_charity">
+<i class="fa fa-book"></i>
+<span> دعاء خاص للمتوفى</span></a>
+</li>
+<li class="list-group-item menu-item">
+<a href="https://t.me/On_line_charity">
+<i class="fa fa-child"></i>
+<span> دعاء للطفل المتوفى </span></a>
+</li>
+<li class="list-group-item menu-item">
+<a href="https://t.me/On_line_charity">
+<i class="fa fa-envira"></i>
+<span> دعاء للمفقود والغائب </span></a>
+</li>
+<li class="list-group-item menu-item">
+<a href="https://t.me/On_line_charity">
+<i class="fa fa-book"></i>
+<span> ختمتك اليومية </span></a>
+</li>
+<li class="list-group-item menu-item">
+<a href="https://t.me/On_line_charity">
+<i class="fa fa-book"></i>
+<span> انشئ ختمة قرآن للمتوفى </span></a>
+</li>
+<li class="list-group-item menu-item">
+<a href="https://t.me/On_line_charity">
+<i class="fa fa-sun-o"></i>
+<span>أذكار الصباح </span></a>
+</li>
+<li class="list-group-item menu-item">
+<a href="https://t.me/On_line_charity">
+<i class="fa fa-moon-o"></i>
+<span>أذكار المساء </span></a>
+</li>
+<li class="list-group-item menu-item">
+<a href="https://t.me/On_line_charity">
+<i class="fa fa-globe"></i>
+<span>جميع التسابيح والتهنئات </span></a>
+</li>
+<li class="list-group-item menu-item">
+<a href="https://t.me/On_line_charity">
+<i class="fa fa-book"></i>
+<span> المقالات </span></a>
+</li>
+<li class="list-group-item menu-item">
+<a href="https://t.me/On_line_charity">
+<i class="fa fa-book"></i>
+<span> كتب إسلامية </span></a>
+</li>
+<li class="list-group-item menu-item">
+<a href="https://t.me/On_line_charity">
+<i class="fa fa-comments-o"></i>
+<span>راسلنا</span></a>
+</li>
+
+
+<li class="list-group-item menu-item">
+<a href="https://www.buymeacoffee.com/masba7a">
+<i class="fa fa-credit-card"></i>
+<span>ساعدنا في الاستمرار </span></a>
+</li>
+<li class="list-group-item menu-item">
+<a href="https://t.me/On_line_charity">
+<i class="fa fa-trophy"></i>
+<span>(قيد التجربة) مسابقة الإستغفار</span></a>
+</li>
+
+<li class="list-group-item menu-item">
+<a href="https://t.me/On_line_charity">
+<i class="fa fa-ge" aria-hidden="true"></i>
+<span>أضف مسبحة إلى موقعك</span></a>
+</li>
+<li class="list-group-item menu-item text-center">
+<i class="fa fa-language" aria-hidden="true"></i>
+<span>اللغة </span>
+<select name="langs" id="langs" class="form-control" onchange="if (!window.__cfRLUnblockHandlers) return false; window.location = 'https://masba7a.com/'+$(this).val()">
+<option value="">العربية</option>
+<option value="en">English</option>
+<option value="tr">Türkçe</option>
+<option value="fa">فارسی</option>
+<option value="es">Español</option>
+<option value="fr">Français</option>
+<option value="de">Deutsch</option>
+<option value="ha">Hausa</option>
+<option value="nl">Nederlands</option>
+<option value="in">bahasa Indonesia</option>
+<option value="bn">বাংলা</option>
+<option value="hi">हिन्दी</option>
+<option value="ms">Melayu</option>
+<option value="zh">中国人</option>
+<option value="ur">اردو</option>
+<option value="ru">русский</option>
+</select>
+</li>
+</ul>
+<div style="direction: rtl; text-align: center;">
+<button type="button" id="push_btn" class="btn pmd-btn-fab pmd-ripple-effect btn-primary btn-sm mb-2">المنبه معطل  <i class="fa fa-bell-slash-o" aria-hidden="true"></i></button>
+
+<p>بريد : <span><a href="mailto:tahakooo190@gmail.com"> tahakooo190@gmail.com</a></span></p>
+<p><span><a href="https://t.me/On_line_charity"> جروب المسابح </a></span>|<span><a href="https://t.me/On_line_charity"> بحث <i class="fa fa-search" aria-hidden="true"></i> </a></span></p>
+<a href="https://t.me/On_line_charity"> <img src="" alt="https://masba7a.com/img/android.png"> </a>
+</div>
+<div class="d-flex justify-content-between p-2">
+<a href="https://t.me/On_line_charity" target="_blank">Privacy policy</a>
+<a href="https://t.me/On_line_charity">من نحن </a>
+</div>
+
+<!-- لغة الموقع  -->
+
+<div style="clear:both"></div>
+<div class="menu-lang-container">
+<a href="#" class="lang-toast badge badge-info m-1">العربية</a>
+<a href="#" class="lang-toast badge badge-info m-1">English</a>
+<a href="#" class="lang-toast badge badge-info m-1">Türkçe</a>
+<a href="#" class="lang-toast badge badge-info m-1">فارسی</a>
+<a href="#" class="lang-toast badge badge-info m-1">Español</a>
+<a href="#" class="lang-toast badge badge-info m-1">Français</a>
+<a href="#" class="lang-toast badge badge-info m-1">Deutsch</a>
+<a href="#" class="lang-toast badge badge-info m-1">Hausa</a>
+<a href="#" class="lang-toast badge badge-info m-1">Nederlands</a>
+<a href="#" class="lang-toast badge badge-info m-1">bahasa Indonesia</a>
+<a href="#" class="lang-toast badge badge-info m-1">বাংলা</a>
+<a href="#" class="lang-toast badge badge-info m-1">हिन्दी</a>
+<a href="#" class="lang-toast badge badge-info m-1">Melayu</a>
+<a href="#" class="lang-toast badge badge-info m-1">中国人</a>
+<a href="#" class="lang-toast badge badge-info m-1">اردو</a>
+<a href="#" class="lang-toast badge badge-info m-1">русский</a>
+</div>
+<div style="clear:both"></div>
+<div class="p-5"></div></nav>
+<div class="modal fade" id="langmodal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">English version</h5>
+</div>
+<div class="modal-body">
+Welcome to <b>Masba7a.com</b>, if you don't know Arabic let's take you to English version. :)
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-secondary" data-dismiss="modal">No, Thanks</button>
+<button type="button" onclick="if (!window.__cfRLUnblockHandlers) return false; redirecToEnglish();" class="btn btn-primary">Yes take me to English version</button>
+</div>
+</div>
+</div>
+</div>
+<script src="https://masba7a.com/js/bootstrap.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+
+        if (!localStorage.getItem("redirected_to_en"))
+            $.ajax({
+                type: "POST",
+                url: app_path + "ajax/is_arabic_country.php",
+                data: {},
+                success: function(response) {
+                    if (response == "0") {
+                        $("#langmodal").modal({
+                            backdrop: 'static',
+                            keyboard: false
+                        });
+                    }
+                    localStorage.setItem("redirected_to_en", "yes");
+                }
+            });
+    });
+
+
+    function redirecToEnglish() {
+        window.location.href = "https://masba7a.com/en/";
+    }
+</script></div>
+<a href="javascript:void(0)" onclick="if (!window.__cfRLUnblockHandlers) return false; window.open('https://masba7a.com/hijri_date/?'+new Date().toISOString().slice(0, 10))" class="hijri-dates-footer">
+<div class="card flex-row justify-content-around">
+<span class="hijriDate_en">Rajab 8, 1444 AH</span><span class="hijriDate_ar" dir="rtl">8 رجب 1444 هـ</span>
+</div>
+</a>
+<footer>
+<div class="social">
+<a href="https://masba7a.com/en/" class="support">English <i class="fa fa-language" aria-hidden="true"></i></a>
+
+<a href="https://t.me/masba7a" target="_blank" class="about-us"><i class="fa fa-telegram" aria-hidden="true"></i></a>
+<a href="https://www.facebook.com/%D9%85%D9%83%D8%AA%D8%A8%D8%AA%D9%8A-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-106854511512997" target="_blank" class="face">f</a>
+<a href="https://api.whatsapp.com/send?text= https://masba7a.com/" data-action="share/whatsapp/share" class="whats"><img src="https://masba7a.com/img/whatsapp.png" class="fluid-img"></a>
+<a href="https://play.google.com/store/apps/details?id=com.tarekadra.masba7a" class="play-store"><i class="fa fa-play" aria-hidden="true"></i></a>
+</div>
+<div class="copyright">
+<p class="text-center m-0 " dir="rtl">© حقوق الطبع والنشر 2023.جميع الحقوق محفوظة صدقة جارية اونلاين</p>
+<div style="clear:both"></div>
+</div>
+</footer>
+<script src="https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js" crossorigin="anonymous" type="text/javascript"></script>
+<script type="text/javascript">
+    var name = "";
+    var url = 'https://masba7a.com/';
+    var trying = 0;
+
+
+    var slideout = new Slideout({
+        'panel': document.getElementById('panel'),
+        'menu': document.getElementById('menu'),
+        'padding': 256,
+        'tolerance': 100,
+    });
+
+    panel.addEventListener('touchstart', function(eve) {
+        let offset = eve.touches[0].pageX;
+
+        if (slideout._orientation !== 1) {
+            offset = window.innerWidth - offset;
+        }
+
+        slideout._preventOpen = slideout._preventOpen || (offset > slideout._tolerance && !slideout.isOpen());
+    });
+
+    // Toggle button
+    document.querySelector('.toggle-button').addEventListener('click', function() {
+        slideout.toggle();
+    });
+    slideout.enableTouch();
+
+    (function(d) {
+        var js, id = 'facebook-jssdk';
+        if (d.getElementById(id)) {
+            return;
+        }
+        js = d.createElement('script');
+        js.id = id;
+        js.async = true;
+        js.src = "https://connect.facebook.net/ar_AR/all.js";
+        d.getElementsByTagName('head')[0].appendChild(js);
+    }(document));
+
+
+    function onShareCLick() {
+        if (navigator.share) {
+            navigator.share({
+                    title: "",
+                    text: "",
+                    url: url
+                })
+                .then(() => console.log('Successful share'))
+                .catch(error => console.log('Error sharing:', error));
+        }
+    }
+
+    $(document).ready(function() {
+        $.ajax({
+            type: "POST",
+            url: app_path + "ajax/viewers.php",
+            data: {
+                url: window.location.href.split("?")[0],
+                name: name
+            },
+            success: function(response) {
+                $('.counter-db').html("<b>" + (parseInt(response)).toLocaleString() + "</b>");
+            }
+        });
+
+        setTimeout(() => {
+            getShortcut(trying);
+        }, 700);
+
+        $('#nav_up').click(function(e) {
+            e.preventDefault();
+            $("html, body").animate({
+                scrollTop: 0
+            }, "slow");
+            return false;
+        });
+
+        $(window).scroll(function() {
+            if ($(this).scrollTop() > 1400) {
+                $('#nav_up').fadeIn();
+            } else {
+                $('#nav_up').fadeOut();
+            }
+        });
+
+        $('.hijriDate_ar').html(writeHijri(new Date(), 'ar'));
+        $('.hijriDate_en').html(writeHijri(new Date(), 'en'));
+    });
+
+    function writeHijri(date, lang) {
+        var date = date || new Date();
+        lang = lang || 'en';
+        var options = {
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric'
+        };
+        return date.toLocaleString(lang + '-u-ca-islamic', options);
+    }
+
+
+    function copyRabet() {
+        var $temp = $("<input>");
+        $("body").append($temp);
+        $temp.val(decodeURIComponent(url)).select();
+        document.execCommand("copy");
+        $temp.remove();
+        alert("تم نسخ الرابط ");
+    }
+
+    function getShortcut() {
+        $.ajax({
+            type: "GET",
+            url: app_path + "ajax/get_shortcut.php",
+            data: {
+                n: trying,
+                url: window.location.href.split("?")[0]
+            },
+            success: function(response) {
+                console.log(response);
+                if (!isNaN(response) && response != '') {
+                    url = app_path + "s/" + response;
+                } else {
+                    trying++;
+                    setTimeout(() => {
+                        getShortcut();
+                    }, 1000);
+                }
+            }
+        });
+    }
+
+    
+    function shareFacebook() {
+        window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURI(url), '_blank');
+        // window.open('https://www.facebook.com/dialog/share?app_id=866136870872519&display=popup&redirect_uri=https%3A%2F%2Fmasba7a.com&href=' + encodeURI(url), '_blank');
+    }
+
+    function shareTwitter() {
+        window.open('https://twitter.com/intent/tweet?url=' + encodeURI(url) + '&hashtags=masba7aOnline', '_blank');
+    }
+
+    function openFbApp() {
+        var link = "https://www.facebook.com/masba7acom";
+        var device = getMobileOperatingSystem();
+        if (device == "Android")
+            var link = "fb://page/106854511512997";
+        if (device == "iOS")
+            var link = "fb://profile/106854511512997";
+
+        window.open(link, "_blank");
+    }
+
+    function getMobileOperatingSystem() {
+        var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+
+        if (/android/i.test(userAgent)) {
+            return "Android";
+        }
+
+        // iOS detection from: http://stackoverflow.com/a/9039885/177710
+        if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
+            return "iOS";
+        }
+
+        return "unknown";
+    }
+</script>
+<script type="text/javascript" src="https://masba7a.com/push.js"></script>
+<script type="text/javascript" src="https://masba7a.com/pwa.js"></script>
+<div class="blocker" style="display: none;">
+<div class="spinner-border text-light" role="status">
+<span class="sr-only">Loading...</span>
+</div>
+</div>
+<button id="nav_up" class="btn " style="position: fixed; bottom: 0px; z-index: 99; right: 5px;color: #007bff70;padding: 0;display:none;">
+<i class="fa fa-2x fa-arrow-circle-o-up"></i>
+</button>
+<div class="addHomeScreen">
+<div class="addHomeScreen_close" onclick="if (!window.__cfRLUnblockHandlers) return false; addHomeScreenClose()">
+<i class="fa fa-window-close" aria-hidden="true"></i>
+</div>
+<div class="addHomeScreen_btn">
+<img src="https://masba7a.com/img/icon/android/xhdpi.png" alt="Masba7a">
+أضف إلى الشاشة الرئيسية
+</div>
+</div>
+<script>(function(){var js = "window['__CF$cv$params']={r:'79122166aee60cf8',m:'QKJ_fuqfti.wDISS4EOSNoBcWHgjrXER8U4EhfbeP28-1674997013-0-AZAe4YVZdW+VQs/wBrxTgIPr1d+KcXxRwIoZ2umQG+cfdmLHJdTu5MPj6GnAcexDwzBr/FOaPMySc19vdD0z4z/waRcSCbwtV4k8y4LUQqM/tg7KpnGWJY+JhFIdWAWskw==',s:[0xb4d0245a2e,0xa514c75901],u:'/cdn-cgi/challenge-platform/h/g'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/g/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border: none; visibility: hidden;"></iframe>
+<script type="text/javascript">
+  $(document).ready(function() {
+    $(".inline-whatsapp").on("click", function() {
+      var txt = $(this).closest(".dou3a2").find('.dou3a2-text').text();
+      var link = "https://api.whatsapp.com/send?text= " + txt +
+        " https://masba7a.com/";
+      window.open(link, "_blank");
+    });
+
+  });
+</script>
+
+</body>
+
+</html>
